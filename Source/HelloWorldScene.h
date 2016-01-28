@@ -1,0 +1,3 @@
+@interface HelloWorldScene : CCNode
+
+@end
